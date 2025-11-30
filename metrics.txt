@@ -1,0 +1,12 @@
+=== SWITCHBACK RAILS METRICS ===
+
+Level: COMPLEX_NETWORK
+Total Ticks: 32
+
+Trains Delivered: 4
+Trains Crashed: 0
+Total Trains: 4
+
+Switch Flips: 66
+Average Wait Time: 0 ticks
+Throughput: 12 trains per 100 ticks
